@@ -1,0 +1,2 @@
+# springboot-rabbitmq4
+springboot整合rabbitmq实现消息的发送和接收，相关代码均已测试完成，安装rabbitmq进行测试
